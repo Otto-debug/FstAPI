@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Docker
+*.log
+*.pid
+*.seed
+*.bak
+*.swp
+docker-compose.override.yml
+
+# Python egg info
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# FastAPI generated static docs
+static/
+docs/
+
+# Database (optional, if you ever dump data)
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
