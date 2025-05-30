@@ -119,9 +119,3 @@ docker-compose down
 ```bash
 docker-compose up --build
 ```
-
-## ✅ TODO
-- [ ] Добавить миграции Alembic
-- [ ] Docker Healthchecks
-- [ ] Тесты (pytest)
-- [ ] Обработка ошибок в боте
